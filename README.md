@@ -4,7 +4,3 @@ my first repository
 
 Changesss wuhu
 
-
-
-
-
